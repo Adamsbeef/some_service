@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">some_service</string>
+    <string name="do_work">Do Work</string>
+    <string name="demo_text">Here is some Text that we will need to Back up</string>
+    <string name="alarm_implementation">Alarm Implementation</string>
+    <string name="schedule">Schedule</string>
+    <string name="create_table">Create Table</string>
+</resources>
